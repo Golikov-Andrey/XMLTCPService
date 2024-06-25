@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|g:\\dron\\testtaskinformkazan\\xmlclientinformkazanwpf\\xmlclientinformkazanwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|solutionrelative:xmlclientinformkazanwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|g:\\dron\\testtaskinformkazan\\xmlclientinformkazanwpf\\xmlclientinformkazanwpf\\domain\\messageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|solutionrelative:xmlclientinformkazanwpf\\domain\\messageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\xmlclientinformkazanwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|solutionrelative:xmlclientinformkazanwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\xmlclientinformkazanwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|solutionrelative:xmlclientinformkazanwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|g:\\dron\\testtaskinformkazan\\xmlclientinformkazanwpf\\xmlclientinformkazanwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|solutionrelative:xmlclientinformkazanwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\xmlclientinformkazanwpf\\services\\clientnetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6398BC74-0CDB-45B9-9C83-83C1FD384E2A}|XMLClientInformKazanWPF\\XMLClientInformKazanWPF.csproj|solutionrelative:xmlclientinformkazanwpf\\services\\clientnetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\App.config",
+              "RelativeDocumentMoniker": "XMLClientInformKazanWPF\\App.config",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\App.config",
+              "RelativeToolTip": "XMLClientInformKazanWPF\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T20:13:14.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "XMLClientInformKazanWPF\\MainWindow.xaml",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\MainWindow.xaml",
+              "RelativeToolTip": "XMLClientInformKazanWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T16:01:15.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageClass.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\Domain\\MessageClass.cs",
+              "RelativeDocumentMoniker": "XMLClientInformKazanWPF\\Domain\\MessageClass.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\Domain\\MessageClass.cs",
+              "RelativeToolTip": "XMLClientInformKazanWPF\\Domain\\MessageClass.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwEYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:37:03.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientNetService.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\Services\\ClientNetService.cs",
+              "RelativeDocumentMoniker": "XMLClientInformKazanWPF\\Services\\ClientNetService.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\Services\\ClientNetService.cs",
+              "RelativeToolTip": "XMLClientInformKazanWPF\\Services\\ClientNetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:35:42.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\App.xaml",
+              "RelativeDocumentMoniker": "XMLClientInformKazanWPF\\App.xaml",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\App.xaml",
+              "RelativeToolTip": "XMLClientInformKazanWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T12:48:01.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "XMLClientInformKazanWPF\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLClientInformKazanWPF\\XMLClientInformKazanWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "XMLClientInformKazanWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:01:12.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

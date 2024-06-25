@@ -1,0 +1,10 @@
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\bin\Debug\XMLServerInformKazan.exe.config
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\bin\Debug\XMLServerInformKazan.exe
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\bin\Debug\XMLServerInformKazan.pdb
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Debug\XMLServerInformKazan.csproj.AssemblyReference.cache
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Debug\XMLServerInformKazan.MainWindow.resources
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Debug\XMLServerInformKazan.Properties.Resources.resources
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Debug\XMLServerInformKazan.csproj.GenerateResource.cache
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Debug\XMLServerInformKazan.csproj.CoreCompileInputs.cache
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Debug\XMLServerInformKazan.exe
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Debug\XMLServerInformKazan.pdb

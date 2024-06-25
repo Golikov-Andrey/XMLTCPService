@@ -1,0 +1,10 @@
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\bin\Release\XMLServerInformKazan.exe.config
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\bin\Release\XMLServerInformKazan.exe
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\bin\Release\XMLServerInformKazan.pdb
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Release\XMLServerInformKazan.csproj.AssemblyReference.cache
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Release\XMLServerInformKazan.MainWindow.resources
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Release\XMLServerInformKazan.Properties.Resources.resources
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Release\XMLServerInformKazan.csproj.GenerateResource.cache
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Release\XMLServerInformKazan.csproj.CoreCompileInputs.cache
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Release\XMLServerInformKazan.exe
+G:\Dron\TestTaskInformKazan\XMLServerInformKazan\XMLServerInformKazan\obj\Release\XMLServerInformKazan.pdb

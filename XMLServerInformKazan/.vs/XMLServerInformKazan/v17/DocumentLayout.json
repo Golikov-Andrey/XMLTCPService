@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\xmlserverinformkazan\\services\\netservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|solutionrelative:xmlserverinformkazan\\services\\netservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\xmlserverinformkazan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|solutionrelative:xmlserverinformkazan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\xmlserverinformkazan\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|solutionrelative:xmlserverinformkazan\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\xmlserverinformkazan\\domain\\messageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|solutionrelative:xmlserverinformkazan\\domain\\messageclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\xmlserverinformkazan\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|solutionrelative:xmlserverinformkazan\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|g:\\dron\\testtaskinformkazan\\xmlserverinformkazan\\xmlserverinformkazan\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|solutionrelative:xmlserverinformkazan\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\xmlserverinformkazan\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259DC1C2-8A43-4ABB-B3F1-A7B330D5DF07}|XMLServerInformKazan\\XMLServerInformKazan.csproj|solutionrelative:xmlserverinformkazan\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\MainWindow.cs",
+              "RelativeDocumentMoniker": "XMLServerInformKazan\\MainWindow.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "XMLServerInformKazan\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:10:36.977Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageClass.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\Domain\\MessageClass.cs",
+              "RelativeDocumentMoniker": "XMLServerInformKazan\\Domain\\MessageClass.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\Domain\\MessageClass.cs",
+              "RelativeToolTip": "XMLServerInformKazan\\Domain\\MessageClass.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:48:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "XMLServerInformKazan\\Services\\MessageService.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\Services\\MessageService.cs",
+              "RelativeToolTip": "XMLServerInformKazan\\Services\\MessageService.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:44:07.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "XMLServerInformKazan\\MainWindow.Designer.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\MainWindow.Designer.cs",
+              "RelativeToolTip": "XMLServerInformKazan\\MainWindow.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:18:15.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetService.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\Services\\NetService.cs",
+              "RelativeDocumentMoniker": "XMLServerInformKazan\\Services\\NetService.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\Services\\NetService.cs",
+              "RelativeToolTip": "XMLServerInformKazan\\Services\\NetService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:15:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\MainWindow.cs",
+              "RelativeDocumentMoniker": "XMLServerInformKazan\\MainWindow.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\MainWindow.cs",
+              "RelativeToolTip": "XMLServerInformKazan\\MainWindow.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:06:04.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\Program.cs",
+              "RelativeDocumentMoniker": "XMLServerInformKazan\\Program.cs",
+              "ToolTip": "G:\\Dron\\TestTaskInformKazan\\XMLServerInformKazan\\XMLServerInformKazan\\Program.cs",
+              "RelativeToolTip": "XMLServerInformKazan\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:05:53.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
